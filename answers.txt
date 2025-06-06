@@ -5,3 +5,7 @@ Answer: Because it is the most commonly used software for tracking changes in an
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new commit that combines both branches while rebasing rewrites the whole commit history.
